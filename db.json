@@ -1,0 +1,29 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 10,
+      "text": "Feedback coming from the backend"
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "text": "Feedback coming from the backend"
+    },
+    {
+      "id": 3,
+      "rating": 9,
+      "text": "Feedback coming from the backend"
+    },
+    {
+      "rating": 7,
+      "text": "added using postman",
+      "id": 4
+    },
+    {
+      "text": "another review added successfully",
+      "rating": 6,
+      "id": 5
+    }
+  ]
+}
